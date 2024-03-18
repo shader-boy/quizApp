@@ -104,4 +104,10 @@ nextButton.addEventListener("click", () => {
   }
 });
 
+function printName(firstName) {
+  console.log(firstName);
+}
+
 startQuiz();
+
+console.log("unnecessary comment");
